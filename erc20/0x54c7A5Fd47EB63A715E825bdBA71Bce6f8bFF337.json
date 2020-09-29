@@ -1,0 +1,21 @@
+{
+  "symbol": "ANO",
+  "address": "0x54c7A5Fd47EB63A715E825bdBA71Bce6f8bFF337",
+  "overview":{
+        "en": "ANO innovatively introduces decentralized trading mining and deflation mechanisms, and uses trading behavior to entrusts value to token, and solves the liquidity problem of decentralized trading market.",
+        "zh": "ANO创新性引入去中心化交易对挖矿、通缩机制，用交易行为为代币赋予价值， 同时很好地解决了去中心化交易市场流动性问题。 "
+  },
+  "email": "AnoborService@gmail.com",
+  "website": "www.anobor.com",
+  
+  "state": "NORMAL",
+  "published_on": "2020-09-28",
+  "initial_price":{
+        "ETH":"0.0140134529 ETH",
+        "USD":"5 USD",
+        
+  },
+  "links": {
+    "github": "https://github.com/chaofanLiang/token-profile"
+  }
+}
